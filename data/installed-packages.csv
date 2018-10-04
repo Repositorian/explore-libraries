@@ -1,0 +1,149 @@
+Package,LibPath,Version,Priority,Built
+assertthat,C:/Users/gclement/Documents/R/win-library/3.5,0.2.0,NA,3.5.0
+babynames,C:/Users/gclement/Documents/R/win-library/3.5,0.3.0,NA,3.5.0
+backports,C:/Users/gclement/Documents/R/win-library/3.5,1.1.2,NA,3.5.0
+base64enc,C:/Users/gclement/Documents/R/win-library/3.5,0.1-3,NA,3.5.0
+BH,C:/Users/gclement/Documents/R/win-library/3.5,1.66.0-1,NA,3.5.0
+bibtex,C:/Users/gclement/Documents/R/win-library/3.5,0.4.2,NA,3.5.0
+bindr,C:/Users/gclement/Documents/R/win-library/3.5,0.1.1,NA,3.5.0
+bindrcpp,C:/Users/gclement/Documents/R/win-library/3.5,0.2.2,NA,3.5.0
+bitops,C:/Users/gclement/Documents/R/win-library/3.5,1.0-6,NA,3.5.0
+broom,C:/Users/gclement/Documents/R/win-library/3.5,0.4.4,NA,3.5.0
+callr,C:/Users/gclement/Documents/R/win-library/3.5,2.0.4,NA,3.5.0
+caTools,C:/Users/gclement/Documents/R/win-library/3.5,1.17.1.1,NA,3.5.1
+cellranger,C:/Users/gclement/Documents/R/win-library/3.5,1.1.0,NA,3.5.0
+citr,C:/Users/gclement/Documents/R/win-library/3.5,0.2.0,NA,3.5.0
+cli,C:/Users/gclement/Documents/R/win-library/3.5,1.0.0,NA,3.5.0
+clipr,C:/Users/gclement/Documents/R/win-library/3.5,0.4.1,NA,3.5.1
+clisymbols,C:/Users/gclement/Documents/R/win-library/3.5,1.2.0,NA,3.5.1
+colorspace,C:/Users/gclement/Documents/R/win-library/3.5,1.3-2,NA,3.5.0
+crayon,C:/Users/gclement/Documents/R/win-library/3.5,1.3.4,NA,3.5.0
+crosstalk,C:/Users/gclement/Documents/R/win-library/3.5,1.0.0,NA,3.5.0
+crul,C:/Users/gclement/Documents/R/win-library/3.5,0.5.2,NA,3.5.0
+curl,C:/Users/gclement/Documents/R/win-library/3.5,3.2,NA,3.5.0
+data.table,C:/Users/gclement/Documents/R/win-library/3.5,1.11.4,NA,3.5.0
+DBI,C:/Users/gclement/Documents/R/win-library/3.5,1.0.0,NA,3.5.0
+dbplyr,C:/Users/gclement/Documents/R/win-library/3.5,1.2.1,NA,3.5.0
+desc,C:/Users/gclement/Documents/R/win-library/3.5,1.2.0,NA,3.5.1
+dichromat,C:/Users/gclement/Documents/R/win-library/3.5,2.0-0,NA,3.5.0
+digest,C:/Users/gclement/Documents/R/win-library/3.5,0.6.15,NA,3.5.0
+dplyr,C:/Users/gclement/Documents/R/win-library/3.5,0.7.5,NA,3.5.0
+DT,C:/Users/gclement/Documents/R/win-library/3.5,0.4,NA,3.5.0
+evaluate,C:/Users/gclement/Documents/R/win-library/3.5,0.10.1,NA,3.5.0
+fauxpas,C:/Users/gclement/Documents/R/win-library/3.5,0.2.0,NA,3.5.0
+fivethirtyeight,C:/Users/gclement/Documents/R/win-library/3.5,0.4.0,NA,3.5.0
+forcats,C:/Users/gclement/Documents/R/win-library/3.5,0.3.0,NA,3.5.0
+fs,C:/Users/gclement/Documents/R/win-library/3.5,1.2.6,NA,3.5.1
+ggplot2,C:/Users/gclement/Documents/R/win-library/3.5,3.0.0,NA,3.5.1
+gh,C:/Users/gclement/Documents/R/win-library/3.5,1.0.1,NA,3.5.1
+git2r,C:/Users/gclement/Documents/R/win-library/3.5,0.23.0,NA,3.5.1
+glue,C:/Users/gclement/Documents/R/win-library/3.5,1.2.0,NA,3.5.0
+gridExtra,C:/Users/gclement/Documents/R/win-library/3.5,2.3,NA,3.5.0
+gtable,C:/Users/gclement/Documents/R/win-library/3.5,0.2.0,NA,3.5.0
+haven,C:/Users/gclement/Documents/R/win-library/3.5,1.1.1,NA,3.5.0
+here,C:/Users/gclement/Documents/R/win-library/3.5,0.1,NA,3.5.1
+highr,C:/Users/gclement/Documents/R/win-library/3.5,0.7,NA,3.5.0
+hms,C:/Users/gclement/Documents/R/win-library/3.5,0.4.2,NA,3.5.0
+htmltools,C:/Users/gclement/Documents/R/win-library/3.5,0.3.6,NA,3.5.0
+htmlwidgets,C:/Users/gclement/Documents/R/win-library/3.5,1.2,NA,3.5.0
+httpcode,C:/Users/gclement/Documents/R/win-library/3.5,0.2.0,NA,3.5.0
+httpuv,C:/Users/gclement/Documents/R/win-library/3.5,1.4.3,NA,3.5.0
+httr,C:/Users/gclement/Documents/R/win-library/3.5,1.3.1,NA,3.5.0
+ini,C:/Users/gclement/Documents/R/win-library/3.5,0.3.1,NA,3.5.1
+jsonlite,C:/Users/gclement/Documents/R/win-library/3.5,1.5,NA,3.5.0
+kableExtra,C:/Users/gclement/Documents/R/win-library/3.5,0.9.0,NA,3.5.0
+knitr,C:/Users/gclement/Documents/R/win-library/3.5,1.20,NA,3.5.0
+labeling,C:/Users/gclement/Documents/R/win-library/3.5,0.3,NA,3.5.0
+later,C:/Users/gclement/Documents/R/win-library/3.5,0.7.3,NA,3.5.0
+lazyeval,C:/Users/gclement/Documents/R/win-library/3.5,0.2.1,NA,3.5.0
+leaflet,C:/Users/gclement/Documents/R/win-library/3.5,2.0.1,NA,3.5.0
+lubridate,C:/Users/gclement/Documents/R/win-library/3.5,1.7.4,NA,3.5.0
+magrittr,C:/Users/gclement/Documents/R/win-library/3.5,1.5,NA,3.5.0
+markdown,C:/Users/gclement/Documents/R/win-library/3.5,0.8,NA,3.5.0
+mime,C:/Users/gclement/Documents/R/win-library/3.5,0.5,NA,3.5.0
+miniUI,C:/Users/gclement/Documents/R/win-library/3.5,0.1.1.1,NA,3.5.0
+mnormt,C:/Users/gclement/Documents/R/win-library/3.5,1.5-5,NA,3.5.0
+modelr,C:/Users/gclement/Documents/R/win-library/3.5,0.1.2,NA,3.5.0
+munsell,C:/Users/gclement/Documents/R/win-library/3.5,0.4.3,NA,3.5.0
+openssl,C:/Users/gclement/Documents/R/win-library/3.5,1.0.1,NA,3.5.0
+PeriodicTable,C:/Users/gclement/Documents/R/win-library/3.5,0.1.2,NA,3.5.0
+pillar,C:/Users/gclement/Documents/R/win-library/3.5,1.2.3,NA,3.5.0
+pkgconfig,C:/Users/gclement/Documents/R/win-library/3.5,2.0.1,NA,3.5.0
+plogr,C:/Users/gclement/Documents/R/win-library/3.5,0.2.0,NA,3.5.0
+plyr,C:/Users/gclement/Documents/R/win-library/3.5,1.8.4,NA,3.5.0
+png,C:/Users/gclement/Documents/R/win-library/3.5,0.1-7,NA,3.5.0
+praise,C:/Users/gclement/Documents/R/win-library/3.5,1.0.0,NA,3.5.0
+processx,C:/Users/gclement/Documents/R/win-library/3.5,3.1.0,NA,3.5.0
+promises,C:/Users/gclement/Documents/R/win-library/3.5,1.0.1,NA,3.5.0
+psych,C:/Users/gclement/Documents/R/win-library/3.5,1.8.4,NA,3.5.0
+purrr,C:/Users/gclement/Documents/R/win-library/3.5,0.2.5,NA,3.5.0
+R6,C:/Users/gclement/Documents/R/win-library/3.5,2.2.2,NA,3.5.0
+raster,C:/Users/gclement/Documents/R/win-library/3.5,2.6-7,NA,3.5.0
+RColorBrewer,C:/Users/gclement/Documents/R/win-library/3.5,1.1-2,NA,3.5.0
+Rcpp,C:/Users/gclement/Documents/R/win-library/3.5,0.12.17,NA,3.5.0
+readr,C:/Users/gclement/Documents/R/win-library/3.5,1.1.1,NA,3.5.0
+readxl,C:/Users/gclement/Documents/R/win-library/3.5,1.1.0,NA,3.5.0
+RefManageR,C:/Users/gclement/Documents/R/win-library/3.5,1.2.0,NA,3.5.0
+rematch,C:/Users/gclement/Documents/R/win-library/3.5,1.0.1,NA,3.5.0
+reprex,C:/Users/gclement/Documents/R/win-library/3.5,0.1.2,NA,3.5.0
+reshape2,C:/Users/gclement/Documents/R/win-library/3.5,1.4.3,NA,3.5.0
+rlang,C:/Users/gclement/Documents/R/win-library/3.5,0.2.1,NA,3.5.0
+rmarkdown,C:/Users/gclement/Documents/R/win-library/3.5,1.10,NA,3.5.0
+rorcid,C:/Users/gclement/Documents/R/win-library/3.5,0.4.0,NA,3.5.0
+rprojroot,C:/Users/gclement/Documents/R/win-library/3.5,1.3-2,NA,3.5.0
+rstudioapi,C:/Users/gclement/Documents/R/win-library/3.5,0.7,NA,3.5.0
+rvest,C:/Users/gclement/Documents/R/win-library/3.5,0.3.2,NA,3.5.0
+scales,C:/Users/gclement/Documents/R/win-library/3.5,0.5.0,NA,3.5.0
+selectr,C:/Users/gclement/Documents/R/win-library/3.5,0.4-1,NA,3.5.0
+shiny,C:/Users/gclement/Documents/R/win-library/3.5,1.1.0,NA,3.5.0
+sourcetools,C:/Users/gclement/Documents/R/win-library/3.5,0.1.7,NA,3.5.0
+sp,C:/Users/gclement/Documents/R/win-library/3.5,1.3-1,NA,3.5.0
+stringi,C:/Users/gclement/Documents/R/win-library/3.5,1.1.7,NA,3.5.0
+stringr,C:/Users/gclement/Documents/R/win-library/3.5,1.3.1,NA,3.5.0
+testthat,C:/Users/gclement/Documents/R/win-library/3.5,2.0.0,NA,3.5.0
+tibble,C:/Users/gclement/Documents/R/win-library/3.5,1.4.2,NA,3.5.0
+tidyr,C:/Users/gclement/Documents/R/win-library/3.5,0.8.1,NA,3.5.0
+tidyselect,C:/Users/gclement/Documents/R/win-library/3.5,0.2.4,NA,3.5.0
+tidyverse,C:/Users/gclement/Documents/R/win-library/3.5,1.2.1,NA,3.5.1
+tinytex,C:/Users/gclement/Documents/R/win-library/3.5,0.5,NA,3.5.0
+triebeard,C:/Users/gclement/Documents/R/win-library/3.5,0.3.0,NA,3.5.0
+urltools,C:/Users/gclement/Documents/R/win-library/3.5,1.7.0,NA,3.5.0
+usethis,C:/Users/gclement/Documents/R/win-library/3.5,1.4.0,NA,3.5.1
+utf8,C:/Users/gclement/Documents/R/win-library/3.5,1.1.4,NA,3.5.0
+viridis,C:/Users/gclement/Documents/R/win-library/3.5,0.5.1,NA,3.5.0
+viridisLite,C:/Users/gclement/Documents/R/win-library/3.5,0.3.0,NA,3.5.0
+whisker,C:/Users/gclement/Documents/R/win-library/3.5,0.3-2,NA,3.5.0
+withr,C:/Users/gclement/Documents/R/win-library/3.5,2.1.2,NA,3.5.0
+xml2,C:/Users/gclement/Documents/R/win-library/3.5,1.2.0,NA,3.5.0
+xtable,C:/Users/gclement/Documents/R/win-library/3.5,1.8-2,NA,3.5.0
+yaml,C:/Users/gclement/Documents/R/win-library/3.5,2.1.19,NA,3.5.0
+base,C:/Program Files/R/R-3.5.0/library,3.5.0,base,3.5.0
+boot,C:/Program Files/R/R-3.5.0/library,1.3-20,recommended,3.5.0
+class,C:/Program Files/R/R-3.5.0/library,7.3-14,recommended,3.5.0
+cluster,C:/Program Files/R/R-3.5.0/library,2.0.7-1,recommended,3.5.0
+codetools,C:/Program Files/R/R-3.5.0/library,0.2-15,recommended,3.5.0
+compiler,C:/Program Files/R/R-3.5.0/library,3.5.0,base,3.5.0
+datasets,C:/Program Files/R/R-3.5.0/library,3.5.0,base,3.5.0
+foreign,C:/Program Files/R/R-3.5.0/library,0.8-70,recommended,3.5.0
+graphics,C:/Program Files/R/R-3.5.0/library,3.5.0,base,3.5.0
+grDevices,C:/Program Files/R/R-3.5.0/library,3.5.0,base,3.5.0
+grid,C:/Program Files/R/R-3.5.0/library,3.5.0,base,3.5.0
+KernSmooth,C:/Program Files/R/R-3.5.0/library,2.23-15,recommended,3.5.0
+lattice,C:/Program Files/R/R-3.5.0/library,0.20-35,recommended,3.5.0
+MASS,C:/Program Files/R/R-3.5.0/library,7.3-49,recommended,3.5.0
+Matrix,C:/Program Files/R/R-3.5.0/library,1.2-14,recommended,3.5.0
+methods,C:/Program Files/R/R-3.5.0/library,3.5.0,base,3.5.0
+mgcv,C:/Program Files/R/R-3.5.0/library,1.8-23,recommended,3.5.0
+nlme,C:/Program Files/R/R-3.5.0/library,3.1-137,recommended,3.5.0
+nnet,C:/Program Files/R/R-3.5.0/library,7.3-12,recommended,3.5.0
+parallel,C:/Program Files/R/R-3.5.0/library,3.5.0,base,3.5.0
+rpart,C:/Program Files/R/R-3.5.0/library,4.1-13,recommended,3.5.0
+spatial,C:/Program Files/R/R-3.5.0/library,7.3-11,recommended,3.5.0
+splines,C:/Program Files/R/R-3.5.0/library,3.5.0,base,3.5.0
+stats,C:/Program Files/R/R-3.5.0/library,3.5.0,base,3.5.0
+stats4,C:/Program Files/R/R-3.5.0/library,3.5.0,base,3.5.0
+survival,C:/Program Files/R/R-3.5.0/library,2.41-3,recommended,3.5.0
+tcltk,C:/Program Files/R/R-3.5.0/library,3.5.0,base,3.5.0
+tools,C:/Program Files/R/R-3.5.0/library,3.5.0,base,3.5.0
+translations,C:/Program Files/R/R-3.5.0/library,3.5.0,NA,3.5.0
+utils,C:/Program Files/R/R-3.5.0/library,3.5.0,base,3.5.0
